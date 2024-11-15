@@ -1,0 +1,33 @@
+{
+    "workbench.sideBar.location": "right",
+    "workbench.iconTheme": "vscode-icons",
+    "editor.formatOnSave": true,
+    "[typescriptreact]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[typescript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "js/ts.implicitProjectConfig.experimentalDecorators": true,
+    "editor.unicodeHighlight.allowedCharacters": {
+        "´": true
+    },
+    "git.autofetch": true,
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "github.copilot.editor.enableAutoCompletions": true,
+    "[json]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "git.openRepositoryInParentFolders": "never",
+    "editor.cursorSmoothCaretAnimation": "on",
+    "editor.cursorBlinking": "expand",
+    "workbench.activityBar.location": "top",
+    "editor.fontLigatures": true,
+    "editor.fontFamily": "Cascadia code",
+    "terminal.integrated.fontFamily": "monospace",
+    "editor.linkedEditing": true,
+    "explorer.fileNesting.enabled": true,
+    "workbench.colorTheme": "Solarized Dark"
+}
